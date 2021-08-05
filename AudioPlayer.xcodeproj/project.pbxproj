@@ -13,6 +13,7 @@
 		961541AB26BC694F00EB85C8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 961541AA26BC694F00EB85C8 /* Preview Assets.xcassets */; };
 		961541B626BC694F00EB85C8 /* AudioPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961541B526BC694F00EB85C8 /* AudioPlayerTests.swift */; };
 		961541C126BC694F00EB85C8 /* AudioPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 961541C026BC694F00EB85C8 /* AudioPlayerUITests.swift */; };
+		961541CF26BC696900EB85C8 /* alert.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 961541CE26BC696900EB85C8 /* alert.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		961541BC26BC694F00EB85C8 /* AudioPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AudioPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		961541C026BC694F00EB85C8 /* AudioPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayerUITests.swift; sourceTree = "<group>"; };
 		961541C226BC694F00EB85C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		961541CE26BC696900EB85C8 /* alert.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = alert.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				961541A326BC694C00EB85C8 /* AudioPlayerApp.swift */,
 				961541A526BC694C00EB85C8 /* ContentView.swift */,
+				961541CE26BC696900EB85C8 /* alert.m4a */,
 				961541A726BC694F00EB85C8 /* Assets.xcassets */,
 				961541AC26BC694F00EB85C8 /* Info.plist */,
 				961541A926BC694F00EB85C8 /* Preview Content */,
@@ -235,6 +238,7 @@
 			files = (
 				961541AB26BC694F00EB85C8 /* Preview Assets.xcassets in Resources */,
 				961541A826BC694F00EB85C8 /* Assets.xcassets in Resources */,
+				961541CF26BC696900EB85C8 /* alert.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
